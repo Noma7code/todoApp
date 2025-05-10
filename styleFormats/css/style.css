@@ -1,0 +1,8 @@
+.external-header {
+  padding: 40px;
+  border-radius: 50%;
+  width: fit-content;
+  height: fit-content;
+  background-image: radial-gradient(rgb(97, 97, 11), pink);
+  transform: translate(200px, 300px);
+}
