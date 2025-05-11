@@ -1,0 +1,14 @@
+.footerDiv {
+  display: flex;
+  width: 100%;
+  background-color: #325940;
+  justify-content: space-evenly;
+  position:absolute;
+  bottom: 0;
+  font-size: 1em;
+  font-weight: bold;
+  color: black;
+}
+p{
+  color:white;
+}
